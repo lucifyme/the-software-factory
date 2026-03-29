@@ -6,7 +6,7 @@ CV
 [View My CV](https://docs.google.com/document/d/1N-Q9C_aIrIwfP1TeOm4CLIxBLpWEi0U5/edit)
 
 LinkedIn
-(https://www.linkedin.com/in/reachedpb)
+[LinkedIn Profile](https://www.linkedin.com/in/reachedpb)
 
 One Thing I Built That I'm Proud Of
 Building a CS function from scratch at Freightify — and making it stick.

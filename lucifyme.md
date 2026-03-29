@@ -1,12 +1,12 @@
-Application – Pratiksha Bhosle
+Application – Pratiksha Bawankar
 Role I'm Applying For
 Senior Customer Success Manager
 
 CV
-[View My CV]([url](https://docs.google.com/document/d/1N-Q9C_aIrIwfP1TeOm4CLIxBLpWEi0U5/edit))
+[View My CV](https://docs.google.com/document/d/1N-Q9C_aIrIwfP1TeOm4CLIxBLpWEi0U5/edit)
 
 LinkedIn
-linkedin.com/in/reachedpb
+(https://www.linkedin.com/in/reachedpb)
 
 One Thing I Built That I'm Proud Of
 Building a CS function from scratch at Freightify — and making it stick.
